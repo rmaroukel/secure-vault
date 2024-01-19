@@ -1,0 +1,4 @@
+/* background fade animation */
+#backdrop {
+    transition: background-color 0.4s ease-in-out;
+}
